@@ -1,0 +1,15 @@
+C:\Users\pnz\Desktop\git_pract\pract_work2\pract_work15\obj\Debug\net6.0\pract_work15.csproj.AssemblyReference.cache
+C:\Users\pnz\Desktop\git_pract\pract_work2\pract_work15\obj\Debug\net6.0\pract_work15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pnz\Desktop\git_pract\pract_work2\pract_work15\obj\Debug\net6.0\pract_work15.AssemblyInfoInputs.cache
+C:\Users\pnz\Desktop\git_pract\pract_work2\pract_work15\obj\Debug\net6.0\pract_work15.AssemblyInfo.cs
+C:\Users\pnz\Desktop\git_pract\pract_work2\pract_work15\obj\Debug\net6.0\pract_work15.csproj.CoreCompileInputs.cache
+C:\Users\pnz\Desktop\git_pract\pract_work2\pract_work15\bin\Debug\net6.0\pract_work15.exe
+C:\Users\pnz\Desktop\git_pract\pract_work2\pract_work15\bin\Debug\net6.0\pract_work15.deps.json
+C:\Users\pnz\Desktop\git_pract\pract_work2\pract_work15\bin\Debug\net6.0\pract_work15.runtimeconfig.json
+C:\Users\pnz\Desktop\git_pract\pract_work2\pract_work15\bin\Debug\net6.0\pract_work15.dll
+C:\Users\pnz\Desktop\git_pract\pract_work2\pract_work15\bin\Debug\net6.0\pract_work15.pdb
+C:\Users\pnz\Desktop\git_pract\pract_work2\pract_work15\obj\Debug\net6.0\pract_work15.dll
+C:\Users\pnz\Desktop\git_pract\pract_work2\pract_work15\obj\Debug\net6.0\refint\pract_work15.dll
+C:\Users\pnz\Desktop\git_pract\pract_work2\pract_work15\obj\Debug\net6.0\pract_work15.pdb
+C:\Users\pnz\Desktop\git_pract\pract_work2\pract_work15\obj\Debug\net6.0\pract_work15.genruntimeconfig.cache
+C:\Users\pnz\Desktop\git_pract\pract_work2\pract_work15\obj\Debug\net6.0\ref\pract_work15.dll
